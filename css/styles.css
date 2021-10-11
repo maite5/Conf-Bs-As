@@ -1,0 +1,66 @@
+ body{
+     margin: 0%;
+     padding: auto;
+   
+} 
+    /*footer  */
+ .container-fluid {
+    position:absolute;
+ }
+ .container-fluid footer{
+    position: relative;   
+    
+ }
+ 
+.container-fluid footer ul li a{ 
+    color: white;
+    margin-top: 3%;
+}
+ 
+.title{
+    margin-top: 30px;
+    margin-bottom: 10%;
+}
+
+.formulario{
+    padding: 15%;
+    margin-bottom: 15%;
+}
+main{
+    display: block;
+}
+ .card-group{
+    margin: 2%;
+}
+.card{
+    margin: 2%; 
+    border-radius: 1%;
+}
+header{
+    background-color: white; 
+    margin: 0%;
+    margin-top: 15%; 
+    margin-bottom: 15%;
+    border: 0px;
+    border-radius: 0px;
+}
+header .card{
+margin: 0%;
+color: white;
+background-color: #333232;  
+}
+header .card p{
+    margin-left: 2%;
+}
+header .card h5{
+    margin-left: 2%; 
+    margin-top: 2%;
+}
+header .card img{
+    margin: 0%;
+    width: 100%; 
+}
+
+d-grid gap-2{
+    border: 0px;
+}

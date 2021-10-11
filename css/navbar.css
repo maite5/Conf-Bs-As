@@ -1,0 +1,15 @@
+
+.navbar {
+  margin-bottom: 0px;
+  background-color: #333232;
+}
+ 
+
+li a:hover{
+
+  background-color: rgb(21, 156, 62);
+  color: white; 
+ 
+}
+
+
