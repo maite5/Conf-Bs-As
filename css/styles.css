@@ -64,3 +64,25 @@ header .card img{
 d-grid gap-2{
     border: 0px;
 }
+
+#total{
+    background-color: white;
+    border-color: white;
+    color: blue;
+}
+
+ total :hover{
+    background-color: aqua; 
+}
+#yellow{
+    border-color: yellow;
+    border-style: double;
+    text-align: center;
+    
+}
+ .card #blue{
+    border-color: blue;
+    border-style: double;
+    text-align: center;
+    
+}
